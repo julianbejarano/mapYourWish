@@ -10,8 +10,8 @@
     let infoPane;
     let palabra_clave = '';
     let palabra_clave2 = '';
-    let radio = 2000;
-    let temp = 2000;
+    let radio = 4000;
+    let temp = 4000;
     let tempResponse;
 
 
